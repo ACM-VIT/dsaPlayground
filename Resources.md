@@ -6,17 +6,17 @@ These will help you primarily in competitive programming, and may also come hand
 
 **Links:**
 
-- [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+- [Codechef- Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 
-- [Basic ACM-ICPC Preparation](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
+- [GeeksforGeeks - Basic ACM-ICPC Preparation](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
 
-- [CCDSAP Resources](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
+- [Codechef - CCDSAP Resources](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
 
-- [Competitive Programming: Beginner to Expert](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
+- [Common Lounge - Competitive Programming: Beginner to Expert](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
 
-- [TopCoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+- [TopCoder - Competitive Coding Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 
-- [Quora Thread for Competitive Programming](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-C%2B%2B-in-2-3-months)
+- [Quora - Thread for Competitive Programming](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-C%2B%2B-in-2-3-months)
 <br>
 
 **Popular Coding Websites:**

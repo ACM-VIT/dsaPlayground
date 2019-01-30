@@ -10,5 +10,7 @@ This repo has been created to help each other in learning more about Data Struct
 
 * Also if you come across a new topic of interest as part of the course or competitive programming in general , you can ping us on group about the same , chances are that seniors already know about it and can help.
 
+* New contributors refer [this](https://github.com/ACM-VIT/dsaPlayground/blob/master/CONTRIBUTING.md)
+
 Happy Coding!</br>
 -Team ACM

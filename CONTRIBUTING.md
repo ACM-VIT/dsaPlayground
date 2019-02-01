@@ -14,7 +14,9 @@ This will make a local copy of the forked repository in your PC<br/>
 `git branch {name of branch}`\
 It is advised to give the branch name which reflects the changes to be made in it<br/>
 
-**5. Make the desired changes in local copy of the cloned repository**
+**5. Make the desired changes in local copy of the cloned repository**\
+Implement the Algorithm/DataStructure in any language and add you code files to respective directories.\
+Name your code file as '{yourName}_code.{extention}'.
 
 **6. Stage the made changes**\
 Use the command `git add .`<br/>

@@ -12,6 +12,7 @@ This will make a local copy of the forked repository in your PC<br/>
 
 **4. Make a branch for yourself**\
 `git branch {name of branch}`\
+`git checkout {name of branch}`\
 It is advised to give the branch name which reflects the changes to be made in it<br/>
 
 **5. Make the desired changes in local copy of the cloned repository**\

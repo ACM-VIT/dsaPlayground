@@ -1,0 +1,33 @@
+import re
+class stack:
+          s=[]
+          def push(self):
+                    x=input("enter any no.:")
+                    if (x[0]=="1",x[1:5]=="8BCE",(re.match("([0-9])",x[5])),(re.match("([0-9])",x[6])),(re.match("([0-9])",x[7])),(re.match("([0-9])",x[8]))):
+                              stack.s.append(x)
+                    else:
+                              print("Invalid Input")
+          def display(self):
+                    l=len(stack.s)
+                    for i in range(l-1,-1,-1):
+                              print(stack.s[i])
+a=stack()
+c="y"
+while c=="y":
+          print ("1.PUSH")
+          print("2.POP AND DISPLAY")
+          print("3.DISPLAY")
+          choice=int(input("Enter Choice:"))
+          if choice==1:
+                    a.push()
+          elif choice==2:
+                    if a.s==[]:
+                              print("stack empty")
+                    else:
+                              print("deleted element is :",a.s.pop())
+          elif choice==3:
+                    a.display()
+          else:
+                    print("wrong input")
+          c=input("do you want to continue?:")
+

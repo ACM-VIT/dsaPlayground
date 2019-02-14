@@ -14,7 +14,7 @@ scanf("%d",&size);
 printf("\nPlease choose an operation from the following options for your stack : ");
 do
 {
-printf("1.Push\n2.Pop\n3.Peek\n4.Display\n5.EXIT\n");
+printf("\n1.Push\n2.Pop\n3.Peek\n4.Display\n5.EXIT\n");
 printf("\nEnter your choice : ");
 scanf("%d",&choice);
 switch(choice)
